@@ -5,6 +5,7 @@
   "main": "pub-config.js",
   "dependencies": {},
   "devDependencies": {
+    "eslint": "^5.16.0",
     "pub-generator": "2.2.0",
     "pub-resolve-opts": "^1.7.4",
     "pub-src-fs": "^2.0.7",
@@ -15,7 +16,8 @@
     "url": "git://github.com/jldec/pub-test.git"
   },
   "scripts": {
-    "test": "tape test/test*.js"
+    "test": "tape test/test*.js",
+    "lint": "eslint ."
   },
   "author": "jurgen leschner",
   "license": "MIT"
