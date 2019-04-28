@@ -1,11 +1,11 @@
 {
   "name": "pub-test",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "standalone pub-generator test",
   "main": "pub-config.js",
   "dependencies": {},
   "devDependencies": {
-    "pub-generator": "^2.1.5",
+    "pub-generator": "2.2.0",
     "pub-resolve-opts": "^1.7.4",
     "pub-src-fs": "^2.0.7",
     "tape": "^4.10.1"
