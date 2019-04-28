@@ -78,7 +78,7 @@ test('test-pub', function(t) {
         '</div>',
         '</div>',
         '',
-        '<script>window.pubRef = {"href":"/page1","relPath":""};</script>\n,
+        '<script>window.pubRef = {"href":"/page1","relPath":""};</script>\n',
         '</body>',
         '</html>',
         ''
