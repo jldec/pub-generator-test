@@ -1,24 +1,23 @@
 {
   "name": "pub-test",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "standalone pub-generator test",
   "main": "pub-config.js",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^6.0.1",
-    "pub-generator": "2.3.0",
-    "pub-resolve-opts": "^1.7.5",
-    "pub-src-fs": "^2.0.8",
-    "tape": "^4.11.0"
+    "eslint": "^6.8.0",
+    "pub-generator": "2.4.1",
+    "pub-resolve-opts": "^1.7.6",
+    "pub-src-fs": "^2.0.9",
+    "tape": "^4.13.2"
   },
   "repository": {
     "type": "git",
     "url": "git://github.com/jldec/pub-test.git"
   },
   "scripts": {
-    "test": "tape test/test*.js",
-    "lint": "eslint ."
+    "test": "eslint . && tape test/test*.js"
   },
-  "author": "jurgen leschner",
+  "author": "Jürgen Leschner",
   "license": "MIT"
 }
