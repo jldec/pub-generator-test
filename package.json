@@ -1,5 +1,5 @@
 {
-  "name": "pub-test",
+  "name": "pub-generator-test",
   "version": "0.2.2",
   "description": "standalone pub-generator test",
   "main": "pub-config.js",
