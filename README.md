@@ -7,7 +7,7 @@ tests pub-generator across different platforms without `.gitattributes` or EOL i
 To validate that the text files all work even with different line endings.
 
 ```
-git clone git@github.com:jldec/pub-test.git
+git clone git@github.com:jldec/pub-generator-test.git
 cd pub-test/
 npm install
 npm test
