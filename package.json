@@ -1,15 +1,15 @@
 {
   "name": "pub-generator-test",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "standalone pub-generator test",
   "main": "pub-config.js",
   "dependencies": {},
   "devDependencies": {
     "eslint": "^6.8.0",
-    "pub-generator": "2.4.2",
-    "pub-resolve-opts": "^1.7.6",
-    "pub-src-fs": "^2.0.9",
-    "tape": "^4.13.2"
+    "pub-generator": "^3.0.0",
+    "pub-resolve-opts": "^1.7.7",
+    "pub-src-fs": "^2.0.10",
+    "tape": "^5.0.0"
   },
   "repository": {
     "type": "git",
