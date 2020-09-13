@@ -1,5 +1,5 @@
 # pub-test
-[![CI](https://github.com/jldec/pub-test/workflows/CI/badge.svg)](https://github.com/jldec/pub-test/actions)
+[![CI](https://github.com/jldec/pub-generator-test/workflows/CI/badge.svg)](https://github.com/jldec/pub-generator-test/actions)
 
 This [pub-server](https://github.com/jldec/pub-server) test project
 tests pub-generator across different platforms without `.gitattributes` or EOL in `.editorconfig`.

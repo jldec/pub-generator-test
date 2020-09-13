@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/jldec/pub-test.git"
+    "url": "git://github.com/jldec/pub-generator-test.git"
   },
   "scripts": {
     "test": "eslint . && tape test/test*.js"
