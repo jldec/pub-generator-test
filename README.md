@@ -8,7 +8,7 @@ To validate that the text files all work even with different line endings.
 
 ```
 git clone git@github.com:jldec/pub-generator-test.git
-cd pub-test/
+cd pub-generator-test/
 npm install
 npm test
 ```
