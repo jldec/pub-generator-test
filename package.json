@@ -5,8 +5,8 @@
   "main": "pub-config.js",
   "dependencies": {},
   "devDependencies": {
-    "eslint": "^7.13.0",
-    "pub-generator": "^4.1.2",
+    "eslint": "^7.15.0",
+    "pub-generator": "^4.1.3",
     "pub-resolve-opts": "^1.9.2",
     "pub-src-fs": "^2.1.2",
     "tape": "^5.0.1"
